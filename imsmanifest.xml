@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5q5AY1jfw2I_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">UNSUR WARNA CMYK DAN RGB</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="UNSUR_WARNA_CMYK_DAN_RGB_ORG">
+    <organization identifier="UNSUR_WARNA_CMYK_DAN_RGB_ORG">
+      <title>UNSUR WARNA CMYK DAN RGB</title>
+      <item identifier="MDS_INTERAKTIF_CMYK_&amp;_RGB_SCO" isvisible="true" identifierref="__5q5AY1jfw2I_course_id_RES">
+        <title>UNSUR WARNA CMYK DAN RGB</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5q5AY1jfw2I_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5V48aQ1b4Kt_80_DX32_DY32_CX33_CY33.png" />
+      <file href="mobile/5j4vcYemtWw_80_DX334_DY334_CX263_CY76.jpg" />
+      <file href="mobile/5j4vcYemtWw_80_DX336_DY336_CX264_CY76.jpg" />
+      <file href="mobile/6p20JKrszof_80_DX1246_DY1246_CX766_CY251.png" />
+      <file href="mobile/5j4vcYemtWw_80_DX176_DY176_CX139_CY50.jpg" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/6WFcxg41Rq5_80_P_0_0_1063_1259_DX313_DY417_CX313_CY417.png" />
+      <file href="mobile/60J9i8L7od9_80_DX976_DY976_CX768_CY491.jpg" />
+      <file href="mobile/5lOcNKb61xj_80_P_266_0_377_486_DX732_DY394_CX732_CY394.png" />
+      <file href="story_content/video_63BymIOLOLo_22_48_574x324.mp4" />
+      <file href="mobile/poster_6hHBizdAiIR_video_63BymIOLOLo_22_48_574x324.jpg" />
+      <file href="mobile/60J9i8L7od9_80_DX992_DY992_CX781_CY491.jpg" />
+      <file href="mobile/60J9i8L7od9_80_DX1504_DY1504_CX1184_CY704.jpg" />
+      <file href="mobile/5pxGkfwV8J3_80_DX258_DY258_CX175_CY54.png" />
+      <file href="mobile/5vP4iFzeqoS_80_DX258_DY258_CX175_CY58.png" />
+      <file href="mobile/6Th0ytbhvUX_80_DX258_DY258_CX175_CY54.png" />
+      <file href="mobile/5zVcj7VUNac_80_DX258_DY258_CX175_CY54.png" />
+      <file href="mobile/5Xc3hIbyznm_80_DX258_DY258_CX175_CY54.png" />
+      <file href="mobile/5aUSfb0zury_80_DX258_DY258_CX175_CY54.png" />
+      <file href="mobile/5zWmC4k1kBx_80_DX172_DY172_CX86_CY40.png" />
+      <file href="mobile/5qXeQQMEQVL_80_DX172_DY172_CX86_CY44.png" />
+      <file href="mobile/6kR9FhD3yUj_80_DX178_DY178_CX134_CY48.png" />
+      <file href="mobile/5j4vcYemtWw_80_DX272_DY272_CX214_CY63.jpg" />
+      <file href="mobile/6EfEhDaPozi_80_DX1440_DY1440_CX1132_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6XmxAGRkPsS.jpg" />
+      <file href="mobile/Shape6AHBkHYrZFs.png" />
+      <file href="mobile/Shape6MzaFrnWTCE.png" />
+      <file href="mobile/Shape6hHBizdAiIR.png" />
+      <file href="mobile/txt__default_6akHmaE9ho1.png" />
+      <file href="mobile/txt__default_6SXkYj9ojWd.png" />
+      <file href="mobile/txt__default_6UBfkTP6y0W.png" />
+      <file href="mobile/txt__default_6ak4DF9wYXm.png" />
+      <file href="mobile/txt__default_6Ccexge7WwQ.png" />
+      <file href="mobile/txt__default_5nyuaELtzNw.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5xqPJBPcgRa.js" />
+      <file href="html5/data/js/5XwRZ9Jfl5W.js" />
+      <file href="html5/data/js/64n5WlKbhqM.js" />
+      <file href="html5/data/js/6kxgrzrb7KQ.js" />
+      <file href="html5/data/js/6MwX0sT2kQs.js" />
+      <file href="html5/data/js/6OlCSCjoq3D.js" />
+      <file href="html5/data/js/6pGWKyXtofg.js" />
+      <file href="html5/data/js/6UqsCCdctCM.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
